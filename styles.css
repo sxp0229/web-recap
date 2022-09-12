@@ -1,0 +1,46 @@
+/* *: universal selector */
+
+* {
+  margin: 0;
+  padding: 0;
+  /* color: red; */
+}
+
+img {
+  height: 200px;
+}
+
+.card {
+  width: 300px;
+  height: auto;
+  border: 1px solid gray;
+  border-radius: 5px;
+  text-align: center;
+  padding: 20px;
+  background-color: white;
+  color: midnightblue;
+  box-shadow: 5px 5px 5px 5px lightgray;
+  /* opacity: 0.5; */
+  transition: opacity 0.3s ease;
+}
+/* tag-name selector */
+
+/* p {
+  color: red;
+} */
+
+/* h3 {
+  font-size: 14px;
+} */
+
+/* class-name selector */
+/* .heading {
+  font-style: italic;
+  /* color: red; */
+/* } */
+
+/* id selector */
+/* #main-language {
+  font-weight: bold;
+} */
+
