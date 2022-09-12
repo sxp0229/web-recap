@@ -13,6 +13,7 @@ img {
 .card {
   width: 300px;
   height: auto;
+  margin: 0px auto;
   border: 1px solid gray;
   border-radius: 5px;
   text-align: center;
